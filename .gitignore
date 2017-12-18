@@ -108,5 +108,6 @@ db.sqlite3
 *.conf
 *.service
 deploy.yml
+*.retry
 hosts
 run_gunicorn.sh
